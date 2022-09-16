@@ -1,0 +1,26 @@
+abcdefghijklmnñopqrstuvwxyz
+ABCDEFGHIJKLMNÑOPQRSTUVWXYZ
+
+1234567890
+
+Ha HaHa
+
+MetaCaracteres(necesitan escaparse)
+.[{()\^$|?*+
+
+coreyms.com
+coreymspol.com
+
+321-555-4321
+123.555.1234
+
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+
+Mr McDonald's
+Mr O'Higgins
+
+
